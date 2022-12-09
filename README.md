@@ -1,0 +1,2 @@
+# CompositionRootProject
+Composition Root Project
